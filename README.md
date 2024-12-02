@@ -6,3 +6,5 @@ Note, a .env file is created for tokens and due to privacy reasons my .env file 
 
 DISCORD_TOKEN = 'put your discord token here'
 OPEN_AI_KEY = 'put your open ai key here'
+
+are some variables that would need to be put into the .env file for the discord bot to work.
