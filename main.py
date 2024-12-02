@@ -16,7 +16,10 @@ openAIKey = os.getenv('OPEN_AI_KEY')
 
 @bot.event
 async def on_ready():
-    print(f'Logged in as {bot.user}')
+    # print(f'Logged in as {bot.user}')
+    print(f'Pee fart.')
+    print(f'Bot by www.iliad.dev')
+    raise SystemExit
 
 # Command to chat with OpenAI@bot.command(name='chat')
 
